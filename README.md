@@ -79,8 +79,17 @@ consegue ter em mãos o checklist para ver se está dentro dos requisitos da
 doação e, de maneira rápida ele consegue estar preparado para doar na
 emergência.
 
+A cada doação feita, o doador ganhará pontos em seu perfil e, juntamente com
+os patrocinadores, será possível trocar por produtos ou serviços de acordo com
+seus pontos acumulados.
+
+
+# 1ª Quinzena de junho
+
 Mas, por que o este aplicativo seria um diferencial em meio à tantos outros do
 mesmo seguimento?
+
+
 
 O aplicativo em questão serviria como uma rede social com o fim de armazenar
 informações pessoais, se conectar com hemocentros próximos e receber
@@ -94,6 +103,8 @@ esteja em falta, mas que virá a acabar, já o discutido contaria com a ajuda
 voluntária rápida e emergencial, aumentando as chances de sobrevivência de
 pacientes que chegam aos hospitais correndo risco de vida.
 
+
+
 Neste mesmo raciocínio, o doador que estiver dentro dos padrões pré-
 estabelecidos e estiver disposto a fazer a doação emergencial contará com o
 apoio emocional e profissional durante toda a situação em si. Desde a chegada
@@ -101,14 +112,19 @@ ao hemocentro até sua saída que só será liberada e confirmada no aplicativo
 mediante uma confirmação de seu pleno estado de saúde e integridade física e
 mental.
 
+
 A cada doação feita, o doador ganhará pontos em seu perfil e, juntamente com
 os patrocinadores, será possível trocar por produtos ou serviços de acordo com
 seus pontos acumulados.
+
 
 É nítido que a intenção principal do aplicativo é ajudar as pessoas que
 precisam de maneira urgente do produto que os doadores podem oferecer e,
 para isso, foi pensado na motivação dos patrocinadores para que possa ser
 recompensado a atitude voluntariamente humanizada de ajudar o próximo.
+
+# 2ª Quinzena de junho
+
 
 Mas, o que será e como será este aplicativo?
 O aplicativo se chamará BlueBloom e terá como finalidade ligar o doador
@@ -137,21 +153,7 @@ grátis, para disseminar ainda mais a ideia do bem social que a doação de
 sangue que uma pessoa pode trazer para um ou vários pacientes.
 
 
- 
-
-# 1ª Quinzena de junho
- 
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD)
-
- 
-
-# 2ª Quinzena de junho
-
- 
-
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD) + crie um pasta chamada "Desenvolvimento" e coloque o início do código
-
- 
+  
 
 # 1ª Quinzena de julho
 
